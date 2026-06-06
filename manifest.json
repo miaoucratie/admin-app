@@ -1,0 +1,23 @@
+{
+  "name": "Miaoucratie — Indisponibilités",
+  "short_name": "Indispo",
+  "start_url": "/indispo/",
+  "scope": "/indispo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6EFE9",
+  "theme_color": "#A8472A",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/indispo/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/indispo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
